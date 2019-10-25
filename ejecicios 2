@@ -1,0 +1,15 @@
+run:
+Ingrese sus nombres
+kevin guillermo mendieta gahona
+Ingrese su nota1
+28
+Ingrese su nota2
+27
+Ingrese ciclo
+primero
+Datos personales:
+Nombres Completos:kevin guillermo mendieta gahona
+ciclo:primero
+nota1:28
+nota2:27
+BUILD SUCCESSFUL (total time: 25 seconds)
